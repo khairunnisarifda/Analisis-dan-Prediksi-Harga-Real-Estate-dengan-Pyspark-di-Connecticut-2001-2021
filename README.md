@@ -37,6 +37,7 @@ Proyek ini bertujuan untuk memprediksi nilai penjualan properti menggunakan PySp
 
 ## Dataset
 Dataset yang digunakan adalah data penjualan properti dari tahun 2001 hingga 2021. Dataset meliputi informasi seperti nilai taksiran, rasio penjualan, jenis properti, dan harga penjualan.
+link: https://catalog.data.gov/dataset/real-estate-sales-2001-2018
 
 ## Hasil Proyek
 - **RMSE:** Mengevaluasi seberapa baik model memprediksi nilai penjualan.
